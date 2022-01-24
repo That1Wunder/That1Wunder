@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Typescript, Python ...**
 
-- 🎨 Portfolio: **https://bit.ly/ThatOneWunder**
+- 🎨 Portfolio: **https://bit.ly/That1Wunder**
 
 - 📫 How to reach me **thatonewunder@gmail.com**
 
